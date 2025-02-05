@@ -1,0 +1,60 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333; /* Dark gray text */
+    line-height: 1.6;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #ffffff; /* White background */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    font-size: 48px;
+    font-weight: bold;
+    color: #0077b6; /* Dark blue for the epsilon logo */
+  }
+  
+  header h1 {
+    margin: 10px 0 0;
+    font-size: 32px;
+    color: #0077b6; /* Dark blue for the heading */
+  }
+  
+  /* Main Content Styles */
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about h2 {
+    font-size: 28px;
+    color: #0077b6; /* Dark blue for the section heading */
+    margin-bottom: 10px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #ffffff; /* White background */
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #666; /* Gray text */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
